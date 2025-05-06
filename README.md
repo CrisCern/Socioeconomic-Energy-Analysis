@@ -19,7 +19,7 @@ This project compares key socioeconomic and energy indicators between selected A
 The United Arab Emirates is highlighted as a key case for urban growth, energy investment, and sustainable development goals.
 
 ## 📎 Final Report
-[ View the PDF Report](./report/Performance_Energetiche_e_Socioeconomiche.pdf)
+[🔗 View the PDF Report](./report/Performance_nergeticch_Socioeconomiche_nei_paesi_Arabi_UnConfronto_con_Mondo_occidentale.pdf)
 
 ---
 
