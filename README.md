@@ -12,7 +12,10 @@ This project compares key socioeconomic and energy indicators between selected A
 - Data visualization (graphs and charts in PDF report)
 
 ##  Project Structure
-- `/sql/`: All SQL scripts used for data creation and analysis
+## 📁 Project Structure
+- `/sql/`: SQL scripts for data modeling, population, and analysis
+  - `WEST_AND_EAST.sql`: Queries for comparative analysis between Arab and Western countries
+  - `SCRIPT_X_DATI_DEL_MONDO.sql`: Database creation and data preprocessing
 - `/report/`: Final PDF report with charts and analytical commentary
 
 ##  Focus on UAE
